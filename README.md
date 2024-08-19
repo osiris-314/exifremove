@@ -1,4 +1,4 @@
-Remove Exif Meta data from images
+# Remove Exif Meta data from images
 
 usage: python exifremove.py file_name_here
 
